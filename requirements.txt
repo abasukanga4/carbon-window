@@ -1,0 +1,6 @@
+pandas==3.0.6
+numpy==2.5.3
+requests==2.34.2
+scikit-learn==1.9.1
+streamlit==1.65.0
+altair==6.3.0
